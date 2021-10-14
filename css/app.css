@@ -42,9 +42,19 @@ h1 {
 #project01 h2 {
     color: #3DB3CE;
 }
+
+#project02 {
+  transition: all 0.3s ease-out;
+}
+
 #project02 h2 {
     color: #75C695;
 }
+
+.active {
+  background-color: #e9f0f2;
+}
+
 #project03 h2 {
     color: #F5876F;
 }
