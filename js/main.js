@@ -44,8 +44,7 @@ function init() {
     scrollTrigger: {
       trigger: "#intro .content",
       pin: true,
-      start: "top-=100 top",
-      end: "bottom top+=250",
+      start: "top top+=5%",
       scrub: true,
       markers: true,
     },
